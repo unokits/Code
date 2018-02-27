@@ -2,6 +2,6 @@
 Visual Studio Code
 
 This is where we will store some sample code for use in Microsoft's Visual
-Studio Code application. Experiencing difficulty checking
+Studio Code application. Experiencing difficulty checking in the
 
 
